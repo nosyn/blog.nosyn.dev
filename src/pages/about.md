@@ -1,36 +1,27 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <p>
+    Welcome! My full name is Son Yen Nguyen and
+    <span class="font-bold italic">nosyn</span>
+    is my name with my last and middle initials writing backward. I'm a proud Vietnamese
+    software developer with a passion for coding, hiking, traveling, and spending
+    time with my family. I was born and raised in Vietnam, and had the opportunity
+    to further my education in the United States, attending Texas A&M University -
+    Corpus Christi.
+  </p>
+  <p>
+    As a full web stack developer, I have honed my skills in front-end, back-end,
+    databases, and cloud technologies. I am currently working as a web developer
+    at Plus One Robotics in San Antonio. With my diverse background and a love for
+    technology, I'm excited to share my experiences and insights with others in
+    the software development community.
+  </p>
 </div>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+<div>
+  <img src="/assets/dev.png"  alt="coding-in-the-universe">
+</div>
