@@ -1,17 +1,16 @@
 ---
-title: My template article
+title: The title of the post
 author: Son Nguyen
-pubDatetime: 2022-06-06T04:06:31Z
-postSlug: my-recent-2
-featured: false
+pubDatetime: 2022-09-21T05:17:19Z
+postSlug: the-title-of-the-post
+featured: true
 draft: true
 tags:
-  - TypeScript
-  - Astro
-description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  - some
+  - example
+  - tags
+ogImage: ""
+description: This is the example description of the example post.
 ---
 
 # Markdown Cheatsheet<a name="TOP"></a>
@@ -197,9 +196,9 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](/public/assets/dev.png "Title is optional")
 
-    Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+    Markup : ![picture alt](/public/assets/dev.png "Title is optional")
 
 Foldable text:
 
