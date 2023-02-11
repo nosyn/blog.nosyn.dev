@@ -7,7 +7,7 @@ export const SITE = {
   title: "Son Nguyen's blog",
   ogImage: "astropaper-og.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 4,
 };
 
 export const LOGO_IMAGE = {
