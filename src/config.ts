@@ -5,7 +5,7 @@ export const SITE = {
   author: "Son Nguyen",
   desc: "A minimal, responsive and SEO-friendly Astro Son Nguyen's blog.",
   title: "Son Nguyen's blog",
-  ogImage: "astropaper-og.png",
+  ogImage: "doodle-dev-og.png",
   lightAndDarkMode: true,
   postPerPage: 4,
 };

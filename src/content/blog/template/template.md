@@ -196,9 +196,9 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](/public/assets/dev.png "Title is optional")
+![picture alt](/assets/content/template/astropaper-og.png "Title is optional")
 
-    Markup : ![picture alt](/public/assets/dev.png "Title is optional")
+    Markup : ![picture alt](/assets/content/template/astropaper-og.png "Title is optional")
 
 Foldable text:
 
