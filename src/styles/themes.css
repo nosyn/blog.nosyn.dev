@@ -34,20 +34,20 @@ html[data-theme="dark"] {
 }
 /* Minty Blue */
 html[data-theme="light"] {
-  --color-fill: 244, 198, 231;
-  --color-text-base: 39, 3, 41;
-  --color-accent: 199, 51, 146;
-  --color-card: 229, 223, 238;
-  --color-card-muted: 197, 169, 226;
-  --color-border: 150, 64, 129;
+  --color-fill: 220, 240, 230;
+  --color-text-base: 30, 40, 40;
+  --color-accent: 120, 180, 160;
+  --color-card: 230, 245, 240;
+  --color-card-muted: 180, 215, 200;
+  --color-border: 80, 120, 100;
 }
 html[data-theme="dark"] {
-  --color-fill: 92, 38, 91;
-  --color-text-base: 219, 199, 219;
-  --color-accent: 240, 84, 174;
-  --color-card: 106, 53, 103;
-  --color-card-muted: 156, 118, 178;
-  --color-border: 177, 65, 141;
+  --color-fill: 40, 50, 60;
+  --color-text-base: 200, 220, 230;
+  --color-accent: 80, 140, 120;
+  --color-card: 60, 70, 80;
+  --color-card-muted: 100, 120, 130;
+  --color-border: 70, 100, 90;
 }
 /* Electric Lime */
 html[data-theme="light"] {
