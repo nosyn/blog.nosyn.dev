@@ -22,7 +22,7 @@ description: This is the example description of the example post.
 kubectl create deployment hello-node --image=registry.k8s.io/e2e-test-images/agnhost:2.39 -- /agnhost netexec --http-port=8080
 ```
 
-![create deployment](/public/assets/content/k8s/create_deployment.png) 2. View the Deployment
+![create deployment hello-node](/public/assets/content/k8s/create_deployment_hello-node.png) 2. View the Deployment
 
 ```
 kubectl get deployments

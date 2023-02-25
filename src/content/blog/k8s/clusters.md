@@ -73,7 +73,7 @@ kubectl version
 4. Check **cluster** info
 
 ```
-kubectl cluster info
+kubectl cluster-info
 ```
 
 ![kubectl_cluster-info](/assets/content/k8s/kubectl_cluster-info.png "kubectl cluster-info")
@@ -81,7 +81,7 @@ kubectl cluster info
 5. Get cluster's **nodes**
 
 ```
-kubectl cluster nodes
+kubectl get nodes
 ```
 
 ![kubectl_get_nodes](/assets/content/k8s/kubectl_get_nodes.png "kubectl get nodes")
