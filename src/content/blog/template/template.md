@@ -1,7 +1,7 @@
 ---
 title: The title of the post
 author: Son Nguyen
-pubDatetime: 2022-09-21T05:17:19Z
+pubDatetime: 2022-09-21T05:17:19Z # ISO Format: Linux: `date -Is` or Javascript: `new Date().toISOString()`
 postSlug: the-title-of-the-post
 featured: true
 draft: true

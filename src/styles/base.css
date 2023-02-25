@@ -4,21 +4,23 @@
 
 @layer base {
   :root,
+  /* Magenta Bloom - Light */
   html[data-theme="light"] {
-    --color-fill: 246, 238, 225;
-    --color-text-base: 1, 44, 86;
-    --color-accent: 225, 74, 57;
-    --color-card: 217, 209, 195;
-    --color-card-muted: 239, 216, 176;
-    --color-border: 220, 152, 145;
+    --color-fill: 244, 221, 234;
+    --color-text-base: 57, 26, 44;
+    --color-accent: 217, 44, 126;
+    --color-card: 232, 208, 223;
+    --color-card-muted: 251, 230, 241;
+    --color-border: 194, 65, 128;
   }
+  /* Electric Lime - Dark */
   html[data-theme="dark"] {
-    --color-fill: 47, 55, 65;
-    --color-text-base: 230, 230, 230;
-    --color-accent: 26, 217, 217;
-    --color-card: 63, 75, 90;
-    --color-card-muted: 89, 107, 129;
-    --color-border: 59, 70, 85;
+    --color-fill: 62, 67, 57;
+    --color-text-base: 216, 220, 195;
+    --color-accent: 133, 237, 107;
+    --color-card: 102, 111, 95;
+    --color-card-muted: 121, 107, 89;
+    --color-border: 107, 150, 8;
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {

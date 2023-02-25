@@ -1,0 +1,255 @@
+/* Royal Purple */
+html[data-theme="light"] {
+  --color-fill: 228, 211, 255;
+  --color-text-base: 57, 28, 76;
+  --color-accent: 159, 70, 255;
+  --color-card: 245, 240, 255;
+  --color-card-muted: 231, 223, 246;
+  --color-border: 181, 130, 214;
+}
+html[data-theme="dark"] {
+  --color-fill: 38, 35, 46;
+  --color-text-base: 216, 204, 255;
+  --color-accent: 150, 67, 255;
+  --color-card: 68, 63, 83;
+  --color-card-muted: 86, 80, 106;
+  --color-border: 109, 100, 131;
+}
+/* Coral Mist */
+html[data-theme="light"] {
+  --color-fill: 240, 240, 240;
+  --color-text-base: 70, 70, 70;
+  --color-accent: 255, 168, 0;
+  --color-card: 215, 215, 215;
+  --color-card-muted: 180, 180, 180;
+  --color-border: 120, 120, 120;
+}
+html[data-theme="dark"] {
+  --color-fill: 30, 30, 30;
+  --color-text-base: 200, 200, 200;
+  --color-accent: 0, 204, 204;
+  --color-card: 70, 70, 70;
+  --color-card-muted: 50, 50, 50;
+  --color-border: 90, 90, 90;
+}
+/* Minty Blue */
+html[data-theme="light"] {
+  --color-fill: 220, 240, 230;
+  --color-text-base: 30, 40, 40;
+  --color-accent: 120, 180, 160;
+  --color-card: 230, 245, 240;
+  --color-card-muted: 180, 215, 200;
+  --color-border: 80, 120, 100;
+}
+html[data-theme="dark"] {
+  --color-fill: 40, 50, 60;
+  --color-text-base: 200, 220, 230;
+  --color-accent: 80, 140, 120;
+  --color-card: 60, 70, 80;
+  --color-card-muted: 100, 120, 130;
+  --color-border: 70, 100, 90;
+}
+/* Electric Lime */
+html[data-theme="light"] {
+  --color-fill: 238, 247, 217;
+  --color-text-base: 20, 75, 7;
+  --color-accent: 97, 215, 47;
+  --color-card: 218, 233, 196;
+  --color-card-muted: 239, 221, 183;
+  --color-border: 158, 211, 73;
+}
+html[data-theme="dark"] {
+  --color-fill: 62, 67, 57;
+  --color-text-base: 216, 220, 195;
+  --color-accent: 133, 237, 107;
+  --color-card: 102, 111, 95;
+  --color-card-muted: 121, 107, 89;
+  --color-border: 107, 150, 8;
+}
+/* Cherry Blossom */
+html[data-theme="light"] {
+  --color-fill: 254, 240, 248;
+  --color-text-base: 106, 48, 76;
+  --color-accent: 233, 89, 141;
+  --color-card: 231, 214, 221;
+  --color-card-muted: 255, 234, 214;
+  --color-border: 207, 128, 154;
+}
+html[data-theme="dark"] {
+  --color-fill: 68, 55, 70;
+  --color-text-base: 221, 183, 198;
+  --color-accent: 187, 86, 122;
+  --color-card: 118, 95, 122;
+  --color-card-muted: 156, 130, 117;
+  --color-border: 131, 56, 93;
+}
+/* Coral Reef */
+html[data-theme="light"] {
+  --color-fill: 255, 241, 229;
+  --color-text-base: 86, 45, 43;
+  --color-accent: 242, 102, 68;
+  --color-card: 234, 215, 206;
+  --color-card-muted: 247, 232, 220;
+  --color-border: 184, 92, 75;
+}
+html[data-theme="dark"] {
+  --color-fill: 75, 65, 57;
+  --color-text-base: 219, 203, 192;
+  --color-accent: 202, 75, 57;
+  --color-card: 120, 108, 96;
+  --color-card-muted: 146, 135, 124;
+  --color-border: 115, 51, 30;
+}
+/* Ocean Breeze */
+html[data-theme="light"] {
+  --color-fill: 224, 240, 233;
+  --color-text-base: 23, 85, 99;
+  --color-accent: 21, 141, 153;
+  --color-card: 211, 230, 224;
+  --color-card-muted: 233, 247, 242;
+  --color-border: 125, 191, 189;
+}
+html[data-theme="dark"] {
+  --color-fill: 36, 42, 51;
+  --color-text-base: 217, 233, 237;
+  --color-accent: 62, 160, 177;
+  --color-card: 49, 56, 68;
+  --color-card-muted: 85, 96, 116;
+  --color-border: 87, 147, 158;
+}
+/* Sunny Day */
+html[data-theme="light"] {
+  --color-fill: 252, 244, 225;
+  --color-text-base: 54, 54, 54;
+  --color-accent: 245, 166, 35;
+  --color-card: 244, 233, 204;
+  --color-card-muted: 255, 223, 102;
+  --color-border: 202, 124, 34;
+}
+html[data-theme="dark"] {
+  --color-fill: 62, 52, 39;
+  --color-text-base: 229, 229, 229;
+  --color-accent: 242, 191, 69;
+  --color-card: 87, 73, 55;
+  --color-card-muted: 122, 103, 77;
+  --color-border: 193, 129, 45;
+}
+/* Magenta Bloom */
+html[data-theme="light"] {
+  --color-fill: 244, 221, 234;
+  --color-text-base: 57, 26, 44;
+  --color-accent: 217, 44, 126;
+  --color-card: 232, 208, 223;
+  --color-card-muted: 251, 230, 241;
+  --color-border: 194, 65, 128;
+}
+html[data-theme="dark"] {
+  --color-fill: 44, 22, 38;
+  --color-text-base: 234, 212, 224;
+  --color-accent: 187, 32, 98;
+  --color-card: 64, 34, 57;
+  --color-card-muted: 97, 52, 88;
+  --color-border: 153, 42, 99;
+}
+/* Pink and Purple */
+html[data-theme="light"] {
+  --color-fill: 233, 194, 204;
+  --color-text-base: 88, 28, 118;
+  --color-accent: 204, 57, 123;
+  --color-card: 188, 173, 199;
+  --color-card-muted: 219, 198, 212;
+  --color-border: 155, 89, 137;
+}
+html[data-theme="dark"] {
+  --color-fill: 57, 28, 51;
+  --color-text-base: 240, 218, 239;
+  --color-accent: 204, 57, 123;
+  --color-card: 73, 51, 77;
+  --color-card-muted: 109, 78, 120;
+  --color-border: 109, 51, 96;
+}
+/* Blue and Gray */
+html[data-theme="light"] {
+  --color-fill: 231, 235, 240;
+  --color-text-base: 43, 55, 71;
+  --color-accent: 88, 163, 199;
+  --color-card: 224, 229, 236;
+  --color-card-muted: 178, 190, 202;
+  --color-border: 144, 149, 161;
+}
+html[data-theme="dark"] {
+  --color-fill: 38, 48, 60;
+  --color-text-base: 240, 240, 240;
+  --color-accent: 88, 163, 199;
+  --color-card: 73, 84, 97;
+  --color-card-muted: 97, 108, 122;
+  --color-border: 62, 74, 87;
+}
+/* Green and Yellow */
+html[data-theme="light"] {
+  --color-fill: 230, 236, 215;
+  --color-text-base: 69, 91, 40;
+  --color-accent: 209, 176, 25;
+  --color-card: 216, 223, 199;
+  --color-card-muted: 184, 192, 155;
+  --color-border: 143, 126, 58;
+}
+html[data-theme="dark"] {
+  --color-fill: 49, 61, 36;
+  --color-text-base: 240, 240, 240;
+  --color-accent: 209, 176, 25;
+  --color-card: 73, 87, 59;
+  --color-card-muted: 97, 114, 77;
+  --color-border: 86, 73, 20;
+}
+/* Orange and Teal */
+html[data-theme="light"] {
+  --color-fill: 252, 237, 225;
+  --color-text-base: 36, 57, 50;
+  --color-accent: 223, 145, 92;
+  --color-card: 223, 233, 230;
+  --color-card-muted: 204, 219, 219;
+  --color-border: 130, 177, 181;
+}
+html[data-theme="dark"] {
+  --color-fill: 33, 38, 40;
+  --color-text-base: 240, 240, 240;
+  --color-accent: 223, 145, 92;
+  --color-card: 63, 71, 74;
+  --color-card-muted: 89, 102, 105;
+  --color-border: 71, 90, 94;
+}
+/* Purple and Green */
+html[data-theme="light"] {
+  --color-fill: 237, 231, 249;
+  --color-text-base: 29, 36, 26;
+  --color-accent: 93, 185, 128;
+  --color-card: 222, 216, 231;
+  --color-card-muted: 192, 187, 202;
+  --color-border: 128, 212, 183;
+}
+html[data-theme="dark"] {
+  --color-fill: 30, 30, 36;
+  --color-text-base: 240, 240, 240;
+  --color-accent: 93, 185, 128;
+  --color-card: 78, 75, 87;
+  --color-card-muted: 108, 104, 119;
+  --color-border: 85, 161, 110;
+}
+/* Teal and pink */
+html[data-theme="light"] {
+  --color-fill: 245, 245, 247;
+  --color-text-base: 40, 50, 60;
+  --color-accent: 0, 196, 179;
+  --color-card: 238, 243, 248;
+  --color-card-muted: 209, 218, 233;
+  --color-border: 230, 47, 126;
+}
+html[data-theme="dark"] {
+  --color-fill: 26, 26, 28;
+  --color-text-base: 255, 255, 255;
+  --color-accent: 0, 196, 179;
+  --color-card: 48, 50, 58;
+  --color-card-muted: 73, 76, 90;
+  --color-border: 231, 71, 141;
+}
