@@ -10,7 +10,7 @@ tags:
   - k8s
   - cloud
   - clusters
-description: This is the example description of the example post.
+description: Basic of a Kubernetes cluster and Minikube and basic commands to interact with Kubernetes cluster and Minikube
 ---
 
 # What is a Kubernetes Clusters

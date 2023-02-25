@@ -49,15 +49,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         development.
       </p>
 
+      <p>So, let's take this journey together.</p>
+
       <p>
-        So, let's take this journey together or check out the
+        If you are interested more about me, check out the
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="/about"
         >
           about page
-        </LinkButton> to learn more about me.
+        </LinkButton> or get <LinkButton
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://github.com/nosyn/my-resume/blob/main/resume.pdf"
+        >
+          my resume.
+        </LinkButton>
       </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
