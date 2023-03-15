@@ -85,3 +85,7 @@ kubectl get nodes
 ```
 
 ![kubectl_get_nodes](/assets/content/k8s/kubectl_get_nodes.png "kubectl get nodes")
+
+**_References_**:
+
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/
