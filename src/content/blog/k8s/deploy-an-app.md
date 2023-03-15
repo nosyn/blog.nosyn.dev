@@ -1,5 +1,5 @@
 ---
-title: Deploy an application on Kubernetes
+title: Using kubectl to Create a Deployment
 author: Son Nguyen
 pubDatetime: 2023-02-23T11:34:14-06:00
 postSlug: deploy-application-to-clusters

@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Clusters
+title: Using Minikube to Create a Cluster
 author: Son Nguyen
 pubDatetime: 2023-02-15T21:59:38-06:00
 postSlug: kubernetes-clusters
