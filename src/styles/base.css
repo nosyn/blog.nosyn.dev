@@ -4,24 +4,24 @@
 
 @layer base {
   :root,
-  /* Magenta Bloom - Light */
+  /* Orange and Teal */
   html[data-theme="light"] {
-    --color-fill: 244, 221, 234;
-    --color-text-base: 57, 26, 44;
-    --color-accent: 217, 44, 126;
-    --color-card: 232, 208, 223;
-    --color-card-muted: 251, 230, 241;
-    --color-border: 194, 65, 128;
+    --color-fill: 252, 237, 225;
+    --color-text-base: 36, 57, 50;
+    --color-accent: 223, 145, 92;
+    --color-card: 223, 233, 230;
+    --color-card-muted: 204, 219, 219;
+    --color-border: 130, 177, 181;
   }
-  /* Electric Lime - Dark */
   html[data-theme="dark"] {
-    --color-fill: 62, 67, 57;
-    --color-text-base: 216, 220, 195;
-    --color-accent: 133, 237, 107;
-    --color-card: 102, 111, 95;
-    --color-card-muted: 121, 107, 89;
-    --color-border: 107, 150, 8;
+    --color-fill: 33, 38, 40;
+    --color-text-base: 240, 240, 240;
+    --color-accent: 223, 145, 92;
+    --color-card: 63, 71, 74;
+    --color-card-muted: 89, 102, 105;
+    --color-border: 71, 90, 94;
   }
+
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
     display: none;
@@ -44,6 +44,9 @@
   }
   svg {
     @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
+  }
+  img {
+    @apply bg-skin-card-muted;
   }
   svg.icon-tabler {
     @apply inline-block h-6 w-6 scale-125 fill-transparent 

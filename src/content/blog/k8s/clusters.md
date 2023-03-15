@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Clusters
+title: Using Minikube to Create a Cluster
 author: Son Nguyen
 pubDatetime: 2023-02-15T21:59:38-06:00
 postSlug: kubernetes-clusters
@@ -85,3 +85,7 @@ kubectl get nodes
 ```
 
 ![kubectl_get_nodes](/assets/content/k8s/kubectl_get_nodes.png "kubectl get nodes")
+
+**_References_**:
+
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/

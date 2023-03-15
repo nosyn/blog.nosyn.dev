@@ -1,5 +1,5 @@
 ---
-title: Deploy an application on Kubernetes
+title: Using kubectl to Create a Deployment
 author: Son Nguyen
 pubDatetime: 2023-02-23T11:34:14-06:00
 postSlug: deploy-application-to-clusters
@@ -91,3 +91,7 @@ curl http://localhost:8001/api/v1/namespaces/default/pods/$POD_NAME/
 ![access pod](/assets/content/k8s/access_pod.png "access pod")
 
 **_In order for the new deployment to be accessible without using the Proxy, a Service is required which will be explained in the next post._**
+
+**_References_**:
+
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/

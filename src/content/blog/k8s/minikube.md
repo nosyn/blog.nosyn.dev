@@ -1,5 +1,5 @@
 ---
-title: Minikube and Kubernetes
+title: Hello Minikube
 author: Son Nguyen
 pubDatetime: 2023-02-7T05:17:19Z
 postSlug: minikube-and-introduction-to-k8s
