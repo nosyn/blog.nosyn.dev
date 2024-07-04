@@ -1,4 +1,4 @@
-# nosyn.dev 📄
+# blog.nosyn.dev 📄
 
 My personal blog powered by [@AstroPaper](https://github.com/satnaing/astro-paper)
 
